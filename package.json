@@ -10,6 +10,7 @@
     "start": "node index.js &"
   },
   "devDependencies": {
+    "grunt-mocha-test": "0.0.1",
     "mocha": "1.6.0"
   },
   "engine": {
