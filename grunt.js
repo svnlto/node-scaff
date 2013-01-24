@@ -45,6 +45,6 @@ module.exports = function(grunt) {
   // Default task.
   grunt.registerTask('default', 'lint');
 
-  grunt.registerTask('test', 'lint');
+  grunt.registerTask('test', 'lint mochaTest');
 
 };
