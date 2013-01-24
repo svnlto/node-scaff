@@ -2,8 +2,8 @@
 
 This is a simple application scaffold to get started with node.js based application development.
 
-It doesn't impose any framework or the like on you. But makes a few
-assumptions. Here are this things it makes use of:
+It doesn't impose any framework or the likes on you. But makes a few
+assumptions. Here are the things it makes use of:
 
 * [Grunt][2]
 * [Travis][1]
