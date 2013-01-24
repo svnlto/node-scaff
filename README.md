@@ -1,8 +1,5 @@
 # node-scaff
 
-
-# this document is 'work in progress'
-
 This is a simple application scaffold to get started with node.js based application development.
 
 It doesn't impose any framework or the like on you. But makes a few
