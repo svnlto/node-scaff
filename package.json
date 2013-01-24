@@ -1,5 +1,5 @@
 {
-  "name": "nodeapp-boilerplate",
+  "name": "node-scaff",
   "version": "0.0.0",
   "author": "Sven Lito <me@svenlito.com>",
   "main": "./index.js",
