@@ -34,5 +34,5 @@ npm test
 
 [1]: https://travis-ci.org/
 [2]: http://gruntjs.com/
-[3]: http://visionmedia.github.com/mocha/
+[3]: http://mochajs.org/
 [4]: http://www.jshint.com/
