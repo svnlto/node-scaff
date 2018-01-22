@@ -1,5 +1,7 @@
 # node-scaff
 
+[![GuardRails badge](https://badges.guardrails.io/svnlto/node-scaff.svg)](https://guardrails.io/)
+
 This is a simple application scaffold to get started with node.js based application development.
 
 It doesn't impose any framework or the likes on you. But makes a few
